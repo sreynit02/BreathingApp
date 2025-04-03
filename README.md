@@ -17,6 +17,6 @@ Sends data read from the sensor to the WebSocket server.
 **Laptop**
 
 ## Software Requirements
-- websocket-sharp
-- gdx module from GDX
+- websocket-sharp : https://github.com/sta/websocket-sharp
+- gdx module from GDX: https://github.com/VernierST/godirect-examples/tree/main/python/gdx
 - Unity v2022.3.35f1
